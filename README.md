@@ -1,4 +1,4 @@
-# sample-frc-shuffleboar
+# sample-frc-shuffleboard
 
 ### Data collection and sample layout code for teaching programming 
 
