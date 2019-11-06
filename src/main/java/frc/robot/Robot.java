@@ -74,6 +74,6 @@ public class Robot extends TimedRobot {
   @Override
   public void testPeriodic() {
 
-    shuffleboardinit.Perodic(); // Checks for X axis input from the robot
+    shuffleboardinit.Perodic(); // pushes data perodicly to the shuffleboard data tab
   }
 }
